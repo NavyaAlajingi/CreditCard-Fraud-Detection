@@ -130,10 +130,4 @@ pip install streamlit pandas numpy matplotlib scikit-learn tensorflow
 
 ---
 
-## 👑 Built By
 
-**Navya Alajingi**  
-Passionate about AI/ML | Explorer | Coder | Tech Enthusiast 💻  
-Let’s connect 👉 [GitHub](https://github.com/navyaalajingi) | [LinkedIn](https://www.linkedin.com)
-
----
